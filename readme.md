@@ -1,6 +1,6 @@
-# Professor AI – AI Resume Chatbot & Research Assistant
+# Professor AI – Research Assistant
 
-Professor AI is an AI-powered Resume Analysis, Research, and Blogging Assistant built using Python and Streamlit.
+Professor AI is an AI-powered Research, and Blogging Assistant built using Python and Streamlit.
 
 The project can analyze resumes, interact through an AI chatbot, perform web research using Tavily, generate AI-powered blog content, and create images for blogs automatically.
 
@@ -9,7 +9,6 @@ The project can analyze resumes, interact through an AI chatbot, perform web res
 ## Features
 
 - AI-powered chatbot interaction
-- Resume upload and analysis
 - AI blog generation
 - AI image generation for blogs
 - Web research using Tavily API
@@ -76,7 +75,6 @@ TAVILY_API_KEY=your_tavily_api_key
 
 ## Capabilities
 
-- Resume understanding and interaction
 - AI-powered research workflows
 - Intelligent blog writing
 - Automated image generation
@@ -92,7 +90,7 @@ TAVILY_API_KEY=your_tavily_api_key
 - Advanced RAG pipeline
 - Cloud deployment
 - Multi-model AI support
-- Authentication system
+- Authentication syste
 
 ---
 
